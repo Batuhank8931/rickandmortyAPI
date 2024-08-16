@@ -13,7 +13,7 @@ This project is a web application built with Next.js and Tailwind CSS to view an
 
 ### 3.1 Clone the Repository
 
-    git clone https://github.com/yourusername/rick-and-morty-api-viewer.git
+    git clone https://github.com/Batuhank8931/rickandmortyAPI.git
     cd rick-and-morty-api-viewer
 
 ### 3.2 Install Dependencies
